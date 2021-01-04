@@ -5,28 +5,28 @@
           "nama": "riyadh muhammad",
           "alamat": "soekarno hatta",
           "umur": 23,
-          "nohp": "08152512142",
+          "nohp": "08152512142"
         },
         {
           "id": 2,
           "nama": "Diana zilivia",
           "alamat": "jakarta barat",
           "umur": 24,
-          "nohp": "081525293747",
+          "nohp": "081525293747"
         },
         {
           "id": 3,
           "nama": "Budi sudarsono",
           "alamat": "soekarno hatta",
           "umur": 26,
-          "nohp": "0812235435345",
+          "nohp": "0812235435345"
         },
         {
           "id": 4,
           "nama": "Budi sudarsono",
           "alamat": "soekarno hatta",
           "umur": 26,
-          "nohp": "0812235435345",
+          "nohp": "0812235435345"
         }
     ]
 }
